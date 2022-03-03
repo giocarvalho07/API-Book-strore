@@ -1,4 +1,4 @@
-# APIClient
+# API BOOK STORE
 API Book Store - projeto em Java e Spring Boot para criação de de uma API REST 
 
 <hr>
